@@ -1,0 +1,29 @@
+{
+ "posts":{
+  "status_code": "success",
+  "message": "success",
+  "data": [
+    { "id": 2, "blog_url":"http://10.143.33.0:3000/history.html","title": "குங்கும காளியம்மன் வரலாறு", "author": "vishnu" ,"description":"குங்கும காளியம்மன் வரலாறு","published_at": "16-11-2018"},
+    { "id": 3, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 4, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 2, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 3, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 4, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 2, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 3, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 4, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"}
+   ]
+
+ },
+ "post":[
+    { "id": 3, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 4, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 2, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 3, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 4, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 2, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 3, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"},
+    { "id": 4, "blog_url":"http://im.rediff.com/movies/2015/feb/05hits-of-ajit1.jpg","title": "json-server", "author": "typicode" ,"description":"abcd","published_at": "9999-12-31"}
+ ]
+ 
+}
